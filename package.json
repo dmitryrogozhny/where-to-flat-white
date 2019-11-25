@@ -1,0 +1,12 @@
+{
+  "name": "where-to-flat-white-bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "telegraf": "^3.33.3"
+  },
+  "devDependencies": {}
+}
